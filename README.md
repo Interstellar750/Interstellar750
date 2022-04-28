@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working for myself.
-
 😢 I'm a newbie in programming.
+
+🔭 Now I’m working for myself.
 
 🌱 I’m currently learning C.
 
