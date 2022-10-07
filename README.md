@@ -2,8 +2,6 @@
 
 🔭 Now I’m working for myself.
 
-🏕️ Far away from school, self-study.
-
 🌿 I have been learning C language for half a year.
 
 😢 I'm no longer a clueless rookie, but I need to keep learning.
