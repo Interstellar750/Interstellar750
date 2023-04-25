@@ -2,11 +2,11 @@
 
 🔭 Now I’m working for myself.
 
-🌿 I have been learning C language for half a year.
+🌿 I have been learning C language for a year. (Maybe?)
 
-😢 I'm no longer a clueless rookie, but I need to keep learning.
+😢 I think I'm a rookie again.
 
-🏕️ Thanks to the holidays, now I have a lot of time.
+🫥 I'm loafing and losing...
 
 ### My GPG Pubilc Key
 
